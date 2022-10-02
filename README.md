@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
-  </div>
-  <div>
+<div>
   <img src="https://komarev.com/ghpvc/?username=Tek4to&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
+</div>
 - 👋 Hi, I’m Daniil (@Tek4to)
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning Django Rest Framework
