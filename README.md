@@ -10,12 +10,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a CS backend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a backend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m searching for a work as a Backend Developer for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning new skills and trying to improve existing skills.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve tasks on LeetCode, read tech articles and playing chess.
 
 - :mailbox:How to reach me: osipovd722@gmail.com or telegram @dnlospv
 ---
